@@ -1,0 +1,273 @@
+Week,Date,Time,Home Team,Away Team
+1,2023-09-07,8:20PM,Kansas City Chiefs,Detroit Lions
+1,2023-09-10,1:00PM,Atlanta Falcons,Carolina Panthers
+1,2023-09-10,1:00PM,Cleveland Browns,Cincinnati Bengals
+1,2023-09-10,1:00PM,Indianapolis Colts,Jacksonville Jaguars
+1,2023-09-10,1:00PM,Washington Commanders,Arizona Cardinals
+1,2023-09-10,1:00PM,Baltimore Ravens,Houston Texans
+1,2023-09-10,1:00PM,Minnesota Vikings,Tampa Bay Buccaneers
+1,2023-09-10,1:00PM,New Orleans Saints,Tennessee Titans
+1,2023-09-10,1:00PM,Pittsburgh Steelers,San Francisco 49ers
+1,2023-09-10,4:25PM,Chicago Bears,Green Bay Packers
+1,2023-09-10,4:25PM,Denver Broncos,Las Vegas Raiders
+1,2023-09-10,4:25PM,Los Angeles Chargers,Miami Dolphins
+1,2023-09-10,4:25PM,New England Patriots,Philadelphia Eagles
+1,2023-09-10,4:25PM,Seattle Seahawks,Los Angeles Rams
+1,2023-09-10,8:20PM,New York Giants,Dallas Cowboys
+1,2023-09-11,8:15PM,New York Jets,Buffalo Bills
+2,2023-09-14,8:15PM,Philadelphia Eagles,Minnesota Vikings
+2,2023-09-17,1:00PM,Atlanta Falcons,Green Bay Packers
+2,2023-09-17,1:00PM,Buffalo Bills,Las Vegas Raiders
+2,2023-09-17,1:00PM,Tampa Bay Buccaneers,Chicago Bears
+2,2023-09-17,1:00PM,Cincinnati Bengals,Baltimore Ravens
+2,2023-09-17,1:00PM,Houston Texans,Indianapolis Colts
+2,2023-09-17,1:00PM,Detroit Lions,Seattle Seahawks
+2,2023-09-17,1:00PM,Jacksonville Jaguars,Kansas City Chiefs
+2,2023-09-17,1:00PM,Tennessee Titans,Los Angeles Chargers
+2,2023-09-17,4:05PM,Arizona Cardinals,New York Giants
+2,2023-09-17,4:05PM,Los Angeles Rams,San Francisco 49ers
+2,2023-09-17,4:25PM,Dallas Cowboys,New York Jets
+2,2023-09-17,4:25PM,Denver Broncos,Washington Commanders
+2,2023-09-17,8:20PM,New England Patriots,Miami Dolphins
+2,2023-09-18,7:15PM,Carolina Panthers,New Orleans Saints
+2,2023-09-18,8:15PM,Pittsburgh Steelers,Cleveland Browns
+3,2023-09-21,8:15PM,San Francisco 49ers,New York Giants
+3,2023-09-24,1:00PM,Detroit Lions,Atlanta Falcons
+3,2023-09-24,1:00PM,Washington Commanders,Buffalo Bills
+3,2023-09-24,1:00PM,Cleveland Browns,Tennessee Titans
+3,2023-09-24,1:00PM,Baltimore Ravens,Indianapolis Colts
+3,2023-09-24,1:00PM,Miami Dolphins,Denver Broncos
+3,2023-09-24,1:00PM,Green Bay Packers,New Orleans Saints
+3,2023-09-24,1:00PM,Jacksonville Jaguars,Houston Texans
+3,2023-09-24,1:00PM,Minnesota Vikings,Los Angeles Chargers
+3,2023-09-24,1:00PM,New York Jets,New England Patriots
+3,2023-09-24,4:05PM,Seattle Seahawks,Carolina Panthers
+3,2023-09-24,4:25PM,Kansas City Chiefs,Chicago Bears
+3,2023-09-24,4:25PM,Arizona Cardinals,Dallas Cowboys
+3,2023-09-24,8:20PM,Las Vegas Raiders,Pittsburgh Steelers
+3,2023-09-25,7:15PM,Tampa Bay Buccaneers,Philadelphia Eagles
+3,2023-09-25,8:15PM,Cincinnati Bengals,Los Angeles Rams
+4,2023-09-28,8:15PM,Green Bay Packers,Detroit Lions
+4,2023-10-01,9:30AM,Jacksonville Jaguars,Atlanta Falcons
+4,2023-10-01,1:00PM,Buffalo Bills,Miami Dolphins
+4,2023-10-01,1:00PM,Carolina Panthers,Minnesota Vikings
+4,2023-10-01,1:00PM,Chicago Bears,Denver Broncos
+4,2023-10-01,1:00PM,Tennessee Titans,Cincinnati Bengals
+4,2023-10-01,1:00PM,Cleveland Browns,Baltimore Ravens
+4,2023-10-01,1:00PM,Indianapolis Colts,Los Angeles Rams
+4,2023-10-01,1:00PM,Houston Texans,Pittsburgh Steelers
+4,2023-10-01,1:00PM,New Orleans Saints,Tampa Bay Buccaneers
+4,2023-10-01,1:00PM,Philadelphia Eagles,Washington Commanders
+4,2023-10-01,4:05PM,Los Angeles Chargers,Las Vegas Raiders
+4,2023-10-01,4:25PM,San Francisco 49ers,Arizona Cardinals
+4,2023-10-01,4:25PM,Dallas Cowboys,New England Patriots
+4,2023-10-01,8:20PM,New York Jets,Kansas City Chiefs
+4,2023-10-02,8:15PM,New York Giants,Seattle Seahawks
+5,2023-10-05,8:15PM,Washington Commanders,Chicago Bears
+5,2023-10-08,9:30AM,Buffalo Bills,Jacksonville Jaguars
+5,2023-10-08,1:00PM,Atlanta Falcons,Houston Texans
+5,2023-10-08,1:00PM,Detroit Lions,Carolina Panthers
+5,2023-10-08,1:00PM,Indianapolis Colts,Tennessee Titans
+5,2023-10-08,1:00PM,Miami Dolphins,New York Giants
+5,2023-10-08,1:00PM,New England Patriots,New Orleans Saints
+5,2023-10-08,1:00PM,Pittsburgh Steelers,Baltimore Ravens
+5,2023-10-08,4:05PM,Arizona Cardinals,Cincinnati Bengals
+5,2023-10-08,4:05PM,Los Angeles Rams,Philadelphia Eagles
+5,2023-10-08,4:25PM,Denver Broncos,New York Jets
+5,2023-10-08,4:25PM,Minnesota Vikings,Kansas City Chiefs
+5,2023-10-08,8:20PM,San Francisco 49ers,Dallas Cowboys
+5,2023-10-09,8:15PM,Las Vegas Raiders,Green Bay Packers
+6,2023-10-12,8:15PM,Kansas City Chiefs,Denver Broncos
+6,2023-10-15,9:30AM,Tennessee Titans,Baltimore Ravens
+6,2023-10-15,1:00PM,Cleveland Browns,San Francisco 49ers
+6,2023-10-15,1:00PM,Atlanta Falcons,Washington Commanders
+6,2023-10-15,1:00PM,Miami Dolphins,Carolina Panthers
+6,2023-10-15,1:00PM,Chicago Bears,Minnesota Vikings
+6,2023-10-15,1:00PM,Cincinnati Bengals,Seattle Seahawks
+6,2023-10-15,1:00PM,Jacksonville Jaguars,Indianapolis Colts
+6,2023-10-15,1:00PM,Houston Texans,New Orleans Saints
+6,2023-10-15,4:05PM,Las Vegas Raiders,New England Patriots
+6,2023-10-15,4:25PM,Los Angeles Rams,Arizona Cardinals
+6,2023-10-15,4:25PM,Tampa Bay Buccaneers,Detroit Lions
+6,2023-10-15,4:25PM,New York Jets,Philadelphia Eagles
+6,2023-10-15,8:20PM,Buffalo Bills,New York Giants
+6,2023-10-16,8:15PM,Los Angeles Chargers,Dallas Cowboys
+7,2023-10-19,8:15PM,New Orleans Saints,Jacksonville Jaguars
+7,2023-10-22,1:00PM,Indianapolis Colts,Cleveland Browns
+7,2023-10-22,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons
+7,2023-10-22,1:00PM,New England Patriots,Buffalo Bills
+7,2023-10-22,1:00PM,Chicago Bears,Las Vegas Raiders
+7,2023-10-22,1:00PM,Baltimore Ravens,Detroit Lions
+7,2023-10-22,1:00PM,New York Giants,Washington Commanders
+7,2023-10-22,4:05PM,Los Angeles Rams,Pittsburgh Steelers
+7,2023-10-22,4:05PM,Seattle Seahawks,Arizona Cardinals
+7,2023-10-22,4:25PM,Denver Broncos,Green Bay Packers
+7,2023-10-22,4:25PM,Kansas City Chiefs,Los Angeles Chargers
+7,2023-10-22,8:20PM,Philadelphia Eagles,Miami Dolphins
+7,2023-10-23,8:15PM,Minnesota Vikings,San Francisco 49ers
+8,2023-10-26,8:15PM,Buffalo Bills,Tampa Bay Buccaneers
+8,2023-10-29,1:00PM,Carolina Panthers,Houston Texans
+8,2023-10-29,1:00PM,Dallas Cowboys,Los Angeles Rams
+8,2023-10-29,1:00PM,Green Bay Packers,Minnesota Vikings
+8,2023-10-29,1:00PM,Tennessee Titans,Atlanta Falcons
+8,2023-10-29,1:00PM,Indianapolis Colts,New Orleans Saints
+8,2023-10-29,1:00PM,Pittsburgh Steelers,Jacksonville Jaguars
+8,2023-10-29,1:00PM,Miami Dolphins,New England Patriots
+8,2023-10-29,1:00PM,New York Giants,New York Jets
+8,2023-10-29,1:00PM,Washington Commanders,Philadelphia Eagles
+8,2023-10-29,4:05PM,Seattle Seahawks,Cleveland Browns
+8,2023-10-29,4:25PM,San Francisco 49ers,Cincinnati Bengals
+8,2023-10-29,4:25PM,Arizona Cardinals,Baltimore Ravens
+8,2023-10-29,4:25PM,Denver Broncos,Kansas City Chiefs
+8,2023-10-29,8:20PM,Los Angeles Chargers,Chicago Bears
+8,2023-10-30,8:15PM,Detroit Lions,Las Vegas Raiders
+9,2023-11-02,8:15PM,Pittsburgh Steelers,Tennessee Titans
+9,2023-11-05,9:30AM,Kansas City Chiefs,Miami Dolphins
+9,2023-11-05,1:00PM,Cleveland Browns,Arizona Cardinals
+9,2023-11-05,1:00PM,Green Bay Packers,Los Angeles Rams
+9,2023-11-05,1:00PM,Houston Texans,Tampa Bay Buccaneers
+9,2023-11-05,1:00PM,Atlanta Falcons,Minnesota Vikings
+9,2023-11-05,1:00PM,New Orleans Saints,Chicago Bears
+9,2023-11-05,1:00PM,New England Patriots,Washington Commanders
+9,2023-11-05,1:00PM,Baltimore Ravens,Seattle Seahawks
+9,2023-11-05,4:05PM,Carolina Panthers,Indianapolis Colts
+9,2023-11-05,4:25PM,Philadelphia Eagles,Dallas Cowboys
+9,2023-11-05,4:25PM,Las Vegas Raiders,New York Giants
+9,2023-11-05,8:20PM,Cincinnati Bengals,Buffalo Bills
+9,2023-11-06,8:15PM,New York Jets,Los Angeles Chargers
+10,2023-11-09,8:15PM,Chicago Bears,Carolina Panthers
+10,2023-11-12,9:30AM,New England Patriots,Indianapolis Colts
+10,2023-11-12,1:00PM,Cincinnati Bengals,Houston Texans
+10,2023-11-12,1:00PM,Baltimore Ravens,Cleveland Browns
+10,2023-11-12,1:00PM,Pittsburgh Steelers,Green Bay Packers
+10,2023-11-12,1:00PM,Jacksonville Jaguars,San Francisco 49ers
+10,2023-11-12,1:00PM,Tampa Bay Buccaneers,Tennessee Titans
+10,2023-11-12,1:00PM,Minnesota Vikings,New Orleans Saints
+10,2023-11-12,4:05PM,Los Angeles Chargers,Detroit Lions
+10,2023-11-12,4:05PM,Arizona Cardinals,Atlanta Falcons
+10,2023-11-12,4:25PM,Dallas Cowboys,New York Giants
+10,2023-11-12,4:25PM,Seattle Seahawks,Washington Commanders
+10,2023-11-12,8:20PM,Las Vegas Raiders,New York Jets
+10,2023-11-13,8:15PM,Buffalo Bills,Denver Broncos
+11,2023-11-16,8:15PM,Baltimore Ravens,Cincinnati Bengals
+11,2023-11-19,1:00PM,Carolina Panthers,Dallas Cowboys
+11,2023-11-19,1:00PM,Cleveland Browns,Pittsburgh Steelers
+11,2023-11-19,1:00PM,Green Bay Packers,Los Angeles Chargers
+11,2023-11-19,1:00PM,Jacksonville Jaguars,Tennessee Titans
+11,2023-11-19,1:00PM,Miami Dolphins,Las Vegas Raiders
+11,2023-11-19,1:00PM,Detroit Lions,Chicago Bears
+11,2023-11-19,1:00PM,Houston Texans,Arizona Cardinals
+11,2023-11-19,1:00PM,Washington Commanders,New York Giants
+11,2023-11-19,4:05PM,San Francisco 49ers,Tampa Bay Buccaneers
+11,2023-11-19,4:25PM,Los Angeles Rams,Seattle Seahawks
+11,2023-11-19,4:25PM,Buffalo Bills,New York Jets
+11,2023-11-19,8:20PM,Denver Broncos,Minnesota Vikings
+11,2023-11-20,8:15PM,Kansas City Chiefs,Philadelphia Eagles
+12,2023-11-23,12:30PM,Detroit Lions,Green Bay Packers
+12,2023-11-23,4:30PM,Dallas Cowboys,Washington Commanders
+12,2023-11-23,8:20PM,Seattle Seahawks,San Francisco 49ers
+12,2023-11-24,3:00PM,New York Jets,Miami Dolphins
+12,2023-11-26,1:00PM,Atlanta Falcons,New Orleans Saints
+12,2023-11-26,1:00PM,Tennessee Titans,Carolina Panthers
+12,2023-11-26,1:00PM,Cincinnati Bengals,Pittsburgh Steelers
+12,2023-11-26,1:00PM,Indianapolis Colts,Tampa Bay Buccaneers
+12,2023-11-26,1:00PM,Houston Texans,Jacksonville Jaguars
+12,2023-11-26,1:00PM,New York Giants,New England Patriots
+12,2023-11-26,4:05PM,Denver Broncos,Cleveland Browns
+12,2023-11-26,4:05PM,Arizona Cardinals,Los Angeles Rams
+12,2023-11-26,4:25PM,Las Vegas Raiders,Kansas City Chiefs
+12,2023-11-26,4:25PM,Philadelphia Eagles,Buffalo Bills
+12,2023-11-26,8:20PM,Los Angeles Chargers,Baltimore Ravens
+12,2023-11-27,8:15PM,Minnesota Vikings,Chicago Bears
+13,2023-11-30,8:15PM,Dallas Cowboys,Seattle Seahawks
+13,2023-12-03,1:00PM,New York Jets,Atlanta Falcons
+13,2023-12-03,1:00PM,Tennessee Titans,Indianapolis Colts
+13,2023-12-03,1:00PM,Houston Texans,Denver Broncos
+13,2023-12-03,1:00PM,New Orleans Saints,Detroit Lions
+13,2023-12-03,1:00PM,Washington Commanders,Miami Dolphins
+13,2023-12-03,1:00PM,New England Patriots,Los Angeles Chargers
+13,2023-12-03,1:00PM,Pittsburgh Steelers,Arizona Cardinals
+13,2023-12-03,4:05PM,Tampa Bay Buccaneers,Carolina Panthers
+13,2023-12-03,4:25PM,Los Angeles Rams,Cleveland Browns
+13,2023-12-03,4:25PM,Philadelphia Eagles,San Francisco 49ers
+13,2023-12-03,8:20PM,Green Bay Packers,Kansas City Chiefs
+13,2023-12-04,8:15PM,Jacksonville Jaguars,Cincinnati Bengals
+14,2023-12-07,8:15PM,Pittsburgh Steelers,New England Patriots
+14,2023-12-10,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers
+14,2023-12-10,1:00PM,New Orleans Saints,Carolina Panthers
+14,2023-12-10,1:00PM,Chicago Bears,Detroit Lions
+14,2023-12-10,1:00PM,Cincinnati Bengals,Indianapolis Colts
+14,2023-12-10,1:00PM,Cleveland Browns,Jacksonville Jaguars
+14,2023-12-10,1:00PM,New York Jets,Houston Texans
+14,2023-12-10,1:00PM,Baltimore Ravens,Los Angeles Rams
+14,2023-12-10,4:05PM,Las Vegas Raiders,Minnesota Vikings
+14,2023-12-10,4:05PM,San Francisco 49ers,Seattle Seahawks
+14,2023-12-10,4:25PM,Kansas City Chiefs,Buffalo Bills
+14,2023-12-10,4:25PM,Los Angeles Chargers,Denver Broncos
+14,2023-12-10,8:20PM,Dallas Cowboys,Philadelphia Eagles
+14,2023-12-11,8:15PM,New York Giants,Green Bay Packers
+14,2023-12-11,8:15PM,Miami Dolphins,Tennessee Titans
+15,2023-12-14,8:15PM,Las Vegas Raiders,Los Angeles Chargers
+15,2023-12-16,1:00PM,Cincinnati Bengals,Minnesota Vikings
+15,2023-12-16,4:30PM,Indianapolis Colts,Pittsburgh Steelers
+15,2023-12-16,8:15PM,Detroit Lions,Denver Broncos
+15,2023-12-17,1:00PM,Carolina Panthers,Atlanta Falcons
+15,2023-12-17,1:00PM,Cleveland Browns,Chicago Bears
+15,2023-12-17,1:00PM,Green Bay Packers,Tampa Bay Buccaneers
+15,2023-12-17,1:00PM,Tennessee Titans,Houston Texans
+15,2023-12-17,1:00PM,New England Patriots,Kansas City Chiefs
+15,2023-12-17,1:00PM,Miami Dolphins,New York Jets
+15,2023-12-17,1:00PM,New Orleans Saints,New York Giants
+15,2023-12-17,4:05PM,Arizona Cardinals,San Francisco 49ers
+15,2023-12-17,4:05PM,Los Angeles Rams,Washington Commanders
+15,2023-12-17,4:25PM,Buffalo Bills,Dallas Cowboys
+15,2023-12-17,8:20PM,Jacksonville Jaguars,Baltimore Ravens
+15,2023-12-18,8:15PM,Seattle Seahawks,Philadelphia Eagles
+16,2023-12-21,8:15PM,Los Angeles Rams,New Orleans Saints
+16,2023-12-23,4:30PM,Pittsburgh Steelers,Cincinnati Bengals
+16,2023-12-23,8:00PM,Los Angeles Chargers,Buffalo Bills
+16,2023-12-24,1:00PM,Atlanta Falcons,Indianapolis Colts
+16,2023-12-24,1:00PM,Carolina Panthers,Green Bay Packers
+16,2023-12-24,1:00PM,Houston Texans,Cleveland Browns
+16,2023-12-24,1:00PM,Minnesota Vikings,Detroit Lions
+16,2023-12-24,1:00PM,New York Jets,Washington Commanders
+16,2023-12-24,1:00PM,Tennessee Titans,Seattle Seahawks
+16,2023-12-24,4:05PM,Tampa Bay Buccaneers,Jacksonville Jaguars
+16,2023-12-24,4:25PM,Chicago Bears,Arizona Cardinals
+16,2023-12-24,4:25PM,Miami Dolphins,Dallas Cowboys
+16,2023-12-24,8:15PM,Denver Broncos,New England Patriots
+16,2023-12-25,1:00PM,Kansas City Chiefs,Las Vegas Raiders
+16,2023-12-25,4:30PM,Philadelphia Eagles,New York Giants
+16,2023-12-25,8:15PM,San Francisco 49ers,Baltimore Ravens
+17,2023-12-28,8:15PM,Cleveland Browns,New York Jets
+17,2023-12-30,8:15PM,Dallas Cowboys,Detroit Lions
+17,2023-12-31,1:00PM,Chicago Bears,Atlanta Falcons
+17,2023-12-31,1:00PM,Buffalo Bills,New England Patriots
+17,2023-12-31,1:00PM,Jacksonville Jaguars,Carolina Panthers
+17,2023-12-31,1:00PM,Indianapolis Colts,Las Vegas Raiders
+17,2023-12-31,1:00PM,Philadelphia Eagles,Arizona Cardinals
+17,2023-12-31,1:00PM,Houston Texans,Tennessee Titans
+17,2023-12-31,1:00PM,Baltimore Ravens,Miami Dolphins
+17,2023-12-31,1:00PM,Tampa Bay Buccaneers,New Orleans Saints
+17,2023-12-31,1:00PM,New York Giants,Los Angeles Rams
+17,2023-12-31,1:00PM,Washington Commanders,San Francisco 49ers
+17,2023-12-31,4:05PM,Seattle Seahawks,Pittsburgh Steelers
+17,2023-12-31,4:25PM,Kansas City Chiefs,Cincinnati Bengals
+17,2023-12-31,4:25PM,Denver Broncos,Los Angeles Chargers
+17,2023-12-31,8:20PM,Minnesota Vikings,Green Bay Packers
+18,2024-01-06,4:30PM,Baltimore Ravens,Pittsburgh Steelers
+18,2024-01-06,8:15PM,Indianapolis Colts,Houston Texans
+18,2024-01-07,1:00PM,New Orleans Saints,Atlanta Falcons
+18,2024-01-07,1:00PM,Carolina Panthers,Tampa Bay Buccaneers
+18,2024-01-07,1:00PM,Cincinnati Bengals,Cleveland Browns
+18,2024-01-07,1:00PM,Detroit Lions,Minnesota Vikings
+18,2024-01-07,1:00PM,Tennessee Titans,Jacksonville Jaguars
+18,2024-01-07,1:00PM,New England Patriots,New York Jets
+18,2024-01-07,4:25PM,Green Bay Packers,Chicago Bears
+18,2024-01-07,4:25PM,Arizona Cardinals,Seattle Seahawks
+18,2024-01-07,4:25PM,Washington Commanders,Dallas Cowboys
+18,2024-01-07,4:25PM,Las Vegas Raiders,Denver Broncos
+18,2024-01-07,4:25PM,Los Angeles Chargers,Kansas City Chiefs
+18,2024-01-07,4:25PM,New York Giants,Philadelphia Eagles
+18,2024-01-07,4:25PM,San Francisco 49ers,Los Angeles Rams
+18,2024-01-07,8:20PM,Miami Dolphins,Buffalo Bills
