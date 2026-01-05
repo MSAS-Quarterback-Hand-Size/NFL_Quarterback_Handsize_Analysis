@@ -6,6 +6,10 @@ Within NFL scouting and player evaluation, quarterback hand size has long been r
 
 This project investigates whether quarterback hand size is meaningfully associated with on-field performance, with particular attention to performance under adverse weather conditions. The analysis leverages publicly available performance metrics—including Pro Football Focus (PFF) grades, ball security measures, and deep passing tendencies—to evaluate both overall performance and context-dependent outcomes.
 
+## View Final Presentation
+
+Go into the repo and select "Relationship Between Hand Sizes of Quarterbacks and Performance.pdf" to view the final presentation
+
 ---
 
 ## Data and Methodology
