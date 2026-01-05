@@ -1,53 +1,56 @@
 # NFL Quarterback Hand Size Analysis
 
-This repository contains code and analysis for exploring the **hand sizes of NFL quarterbacks** and their relationships to other performance metrics and characteristics.
+## Introduction
 
-Hand size — measured at events such as the NFL Combine — has been a topic of interest among fans and analysts alike. While widely discussed as a physical attribute for quarterbacks, its actual impact on performance is debated. This analysis seeks to quantify and visualize hand size trends across quarterbacks using data science techniques.
+Within NFL scouting and player evaluation, quarterback hand size has long been regarded as an important physical trait. The prevailing rationale is that larger hands improve grip and ball control, which may enhance throwing performance, particularly in cold-weather conditions where passing becomes more difficult. This belief is often emphasized by teams located in northern or outdoor stadium environments, especially during late-season play.
 
-## Table of Contents
+This project investigates whether quarterback hand size is meaningfully associated with on-field performance, with particular attention to performance under adverse weather conditions. The analysis leverages publicly available performance metrics—including Pro Football Focus (PFF) grades, ball security measures, and deep passing tendencies—to evaluate both overall performance and context-dependent outcomes.
 
-- [Project Overview](#project-overview)  
-- [Dataset](#dataset)  
-- [Analysis](#analysis)  
-- [How to Run](#how-to-run)  
-- [Results](#results)  
-- [Tools & Libraries](#tools--libraries)  
-- [Contributing](#contributing)  
-- [License](#license)
+---
 
-## Project Overview
+## Data and Methodology
 
-This project:
+The analysis focuses on quarterbacks who participated in the 2023 NFL season. For each quarterback, hand size measurements were collected alongside weekly performance metrics. Separately, game-level weather data, including temperature and wind speed, were compiled for all regular-season games. A unique game identifier was used to merge quarterback performance data with corresponding weather conditions.
 
-- Collects quarterback hand size data along with relevant performance metrics.
-- Cleans and preprocesses the data for analysis.
-- Generates visualizations and statistical summaries to explore patterns.
-- Tests hypotheses about relationships between hand size and performance in various contexts.
+Quarterbacks were categorized into three hand-size groups:
 
-The NFL Combine measurement of hand size is frequently discussed among draft analysts and fans, even though statistical evidence for its impact remains mixed. :contentReference[oaicite:0]{index=0}
+- **Small:** ≤ 9.25 inches  
+- **Medium:** 9.25–9.75 inches  
+- **Large:** ≥ 9.75 inches  
 
-## Dataset
+For each category, scatter plots were constructed with game temperature (°F) on the X-axis and selected performance metrics on the Y-axis. This structure enabled a comparative analysis of performance trends across weather conditions. The initial hypothesis was that quarterbacks with larger hands would exhibit less performance variability in colder temperatures, while quarterbacks with smaller hands might show greater sensitivity to adverse weather.
 
-The repository includes (or links to) the data sources used for the analysis. Typical contents may include:
+Data collection, cleaning, and integration posed several challenges, particularly in aligning performance metrics with environmental conditions. Additionally, the relatively limited sample size constrained the ability to draw statistically significant causal conclusions, positioning this study as exploratory in nature.
 
-- `data/hand_sizes.csv` — Quarterback hand size measurements (combine or official sources).
-- `data/stats.csv` — Career performance or combine performance stats.
-- External references (if applicable) with links to the original measurement sources.
+---
 
-> Note: Some hand size statistics such as median hand size for drafted quarterbacks have been documented by media sources. :contentReference[oaicite:1]{index=1}
+## Historical Analysis
 
-## Analysis
+In addition to performance-based analysis, the study examined historical draft trends to assess whether NFL teams’ valuation of quarterback hand size has changed over time. By analyzing the distribution of quarterback hand sizes across draft years, the project aimed to identify shifts in scouting preferences and drafting behavior related to this physical attribute.
 
-Analysis scripts demonstrate how data is:
+---
 
-1. Cleaned and normalized.
-2. Correlated with other variables (e.g., draft pick, passer rating, win percentage).
-3. Visualized (e.g., boxplots, scatter plots, trend lines).
+## Results
 
-Example files:
+Across all hand-size groups, the analysis revealed no clear or consistent relationship between quarterback hand size and performance under varying weather conditions. None of the groups demonstrated a statistically discernible trend suggesting that hand size directly influences quarterback effectiveness in cold or adverse environments.
 
-- `src/clean_data.py` — Data cleaning and preprocessing.
-- `src/analysis.ipynb` — Jupyter notebook with exploratory analysis.
-- `src/visualizations.py` — Scripts to generate charts.
+However, a secondary observation emerged: quarterbacks with larger hands appeared more frequently among the highest PFF grades in colder games. In contrast, quarterbacks with smaller hands were rarely represented among top-graded performances in these conditions. While this pattern does not establish causation, it suggests a modest association that may influence evaluative perceptions rather than directly determine performance outcomes.
 
+---
 
+## Conclusion
+
+The findings of this study challenge the long-standing assumption that quarterback hand size is a critical determinant of performance, even in cold-weather contexts. While theoretical arguments favoring larger hands are intuitive, the empirical evidence from the 2023 season does not support a strong or consistent relationship between hand size and overall quarterback performance.
+
+Although quarterbacks with larger hands are slightly overrepresented among elite performances in colder games, the absence of a broader trend suggests that hand size alone is insufficient as a predictive metric. Instead, quarterback success appears to be driven by a combination of technical skill, decision-making, preparation, and situational factors.
+
+Future work incorporating larger datasets across multiple seasons and more rigorous statistical testing would be required to further evaluate these findings and determine whether the observed nuances persist over time.
+
+---
+
+## References
+
+1. Pro Football Reference  
+2. Mock Draft Database  
+3. Wunderground  
+4. Pro Football Focus  
